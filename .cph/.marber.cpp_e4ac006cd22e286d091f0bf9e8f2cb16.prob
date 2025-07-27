@@ -1,0 +1,1 @@
+{"name":"Local: marber","url":"/Users/salmanfaris/Documents/PelatihanCOPVY/marber.cpp","tests":[{"id":1746849013221,"input":"5 1 20\n1 2 3 4 10","output":"Benar"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/salmanfaris/Documents/PelatihanCOPVY/marber.cpp","group":"local","local":true}

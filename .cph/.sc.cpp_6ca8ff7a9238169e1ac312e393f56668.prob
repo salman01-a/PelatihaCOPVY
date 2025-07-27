@@ -1,0 +1,1 @@
+{"name":"Local: sc","url":"/Users/salmanfaris/Documents/PelatihanCOPVY/sc.cpp","tests":[{"id":1746713695202,"input":"6 9","output":"0"},{"id":1746713708744,"input":"7 7","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/salmanfaris/Documents/PelatihanCOPVY/sc.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: aw","url":"/Users/salmanfaris/Documents/PelatihanCOPVY/aw.cpp","tests":[{"id":1746709650648,"input":"12 6 3","output":"YA"},{"id":1746709709139,"input":"22 13 7","output":"TIDAK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/salmanfaris/Documents/PelatihanCOPVY/aw.cpp","group":"local","local":true}
